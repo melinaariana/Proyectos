@@ -1,0 +1,59 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+/* Columna 1 */
+.column-one {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Columna 2 */
+.column-two {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  margin: 8px;
+}
+
+/* Columna 3 */
+.column-three {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.color-one {
+  width: 155px;
+  height: 215px;
+  background-color: #2f3133;
+}
+.color-two {
+  width: 155px;
+  height: 215px;
+  background-color: #0361ad;
+}
+.color-three {
+  width: 155px;
+  height: 215px;
+  background-color: #9fb5c1;
+}
+.color-four {
+  width: 155px;
+  height: 215px;
+  background-color: #f8c694;
+}
+.color-five {
+  width: 155px;
+  height: 215px;
+  background-color: #822d55;
+}
+/* Columna 3 */
+
+/* Logo Flotando */
+.logo {
+  position: absolute;
+  top: 195px;
+  left: 400px;
+}
